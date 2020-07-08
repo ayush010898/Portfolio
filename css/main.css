@@ -1,1 +1,135 @@
-.
+.topImage {
+  padding-bottom: 5%;
+}
+
+.aboutMe {
+  padding-bottom: 10%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.description {
+  padding-bottom: 5%;
+  color: grey;
+}
+
+#selfDetails {
+  font-size: 18px;
+}
+
+.container {
+  padding-bottom: 5%;
+}
+
+#links {
+  text-align: center;
+}
+
+.list {
+  list-style: none;
+}
+
+.heading {
+  font-weight: bold;
+  font-size: 30px;
+  text-align: left;
+  color: navy;
+}
+
+.year {
+  font-weight: bold;
+  color: navy;
+  font-size: 17px;
+}
+
+.institute {
+  font-weight: bold;
+  color: navy;
+  font-size: 17px;
+}
+
+.resumeDescription {
+  color: grey;
+  font-size: 15px;
+}
+
+.degree {
+  font-weight: bold;
+  color: navy;
+  font-size: 25px;
+}
+
+.project {
+  padding-bottom: 5%;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+}
+
+.freelance {
+  background-image: url(../images/bg_1.jpg);
+  padding: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.textFreelance {
+  padding: 5%;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+
+.sprites {
+  height: 80px;
+  width: 80px;
+}
+
+.contactSprites {
+  padding: 5%;
+  text-align: center;
+}
+
+.spritesText {
+  color: grey;
+  text-align: center;
+}
+
+.contactMe {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+}
+
+#contact {
+  background-color: gray;
+}
+
+.form {
+  padding: 5%;
+}
+
+.page-footer {
+  background-color: black;
+}
+
+#footerHeadings {
+  color: white;
+}
+
+#footerContent {
+  color: grey;
+}
+
+#footerLinks {
+  margin: 3%;
+}
+
+.footerImage {
+  height: 80px;
+  width: 80px;
+}
